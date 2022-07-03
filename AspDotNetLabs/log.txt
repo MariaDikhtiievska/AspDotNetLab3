@@ -1,0 +1,7 @@
+Now listening on: https://localhost:7249
+Now listening on: http://localhost:5249
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\University\Labs\Course 2\ASP.NET\AspDotNetLabs3\AspDotNetLabs\
+time: 6/24/2022 2:33:13 PM, ip: ::1 /
+time: 6/24/2022 2:33:27 PM, ip: ::1 /cookie/view/1

@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AspDotNetLabs
+build_property.RootNamespace = AspDotNetLabs
+build_property.ProjectDir = D:\University\Labs\Course 2\ASP.NET\AspDotNetLabs3\AspDotNetLabs\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\University\Labs\Course 2\ASP.NET\AspDotNetLabs3\AspDotNetLabs
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/University/Labs/Course 2/ASP.NET/AspDotNetLabs3/AspDotNetLabs/Views/Cookie/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/University/Labs/Course 2/ASP.NET/AspDotNetLabs3/AspDotNetLabs/Views/Session/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Vzc2lvblxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
